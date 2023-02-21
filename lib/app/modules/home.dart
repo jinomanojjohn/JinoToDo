@@ -53,7 +53,7 @@ class _HomePageState extends State<HomePage> {
               width: 10,
             ),
             Text(
-              'ToDark',
+              'JinoToDo',
               style: context.theme.primaryTextTheme.titleLarge,
             ),
           ],
