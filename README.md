@@ -1,6 +1,6 @@
 <div align="center">
 <img src="/assets/icons/icons_todo.png" width="150"/>
-<h2>ToDark</h2>
+<h2>JinoToDo</h2>
 </div>
 
 ### Short Description:
@@ -34,13 +34,7 @@ The following features are provided:
 - Notifications
 - Localization (ru/en/zh)
 
-We also tried to make the design as convenient and beautiful as possible.
 
 ### Screenshots:
 <img src="/readme/1.jpg" width="150"/> <img src="/readme/2.jpg" width="150"/> <img src="/readme/3.jpg" width="150"/> <img src="/readme/4.jpg" width="150"/> <img src="/readme/5.jpg" width="150"/> <img src="/readme/6.jpg" width="150"/> <img src="/readme/7.jpg" width="150"/> <img src="/readme/8.jpg" width="150"/> <img src="/readme/9.jpg" width="150"/> <img src="/readme/10.jpg" width="150"/>
-
-### Download: 
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.yoshi.todark) 
-[![AppGallery](https://img.shields.io/badge/AppGallery-red?style=for-the-badge)](https://appgallery.huawei.ru/app/C107003991) 
-[![RuStore](https://img.shields.io/badge/RuStore-blue?style=for-the-badge&logo=vk&logoColor=white)](https://apps.rustore.ru/app/com.yoshi.todark) 
 
